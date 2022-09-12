@@ -16,5 +16,4 @@ Question 1 : Subarray with given sum
             142
     O/P ->  [2, 4]
     
-  
-  GFG Link - https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category[]=Arrays&sortBy=submissions
+  Solution :  com.gfg.ds.practice.easy.array.SubArraySum
