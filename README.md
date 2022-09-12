@@ -17,3 +17,14 @@ Question 1 : Subarray with given sum
     O/P ->  [2, 4]
     
   Solution :  com.gfg.ds.practice.easy.array.SubArraySum
+
+Question 2 : Missing number in array.
+            Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
+            
+    
+            I/P ->  N = 5
+                    A[] = {1,2,3,5}
+            Output: 4
+
+
+Solution : com.gfg.ds.practice.easy.array.MissingNum
