@@ -21,6 +21,7 @@ public class SubArraySum {
         System.out.println("Please enter size of Array :");
         int n = scan.nextInt();
         int[] arr = new int[n];
+        System.out.println("Please enter elements of Array :");
         for(int i =0 ; i < n ;i++){
             arr[i]=scan.nextInt();
         }
