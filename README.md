@@ -28,3 +28,16 @@ Question 2 : Missing number in array.
 
 
 Solution : com.gfg.ds.practice.easy.array.MissingNum
+
+Question 3 : Find duplicates in an array.
+            Given an array a[] of size N which contains elements from 0 to N-1,
+            you need to find all the elements occurring more than once in the given array.
+
+        
+            Input:
+                N = 4
+                a[] = {0,3,1,3}
+            Output: 
+                [3]
+
+Solution : com.gfg.ds.practice.easy.array.Duplicates
